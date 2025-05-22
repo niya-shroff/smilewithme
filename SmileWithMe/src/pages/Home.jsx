@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <div>
             <h1>SmileWithMe Productions</h1>
-            <p>We create art through short films, spoken word poetry, DJ mixes, and fashion.</p>
+            <p>We create art through short films, spoken word poetry, DJ mixes, and fashion. Come Join us.</p>
             <nav>
                 <ul>
                     <li><Link to="/films">Short Films</Link></li>
