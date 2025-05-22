@@ -1,2 +1,0 @@
-# smilewithme
-SmileWithMe Productions
